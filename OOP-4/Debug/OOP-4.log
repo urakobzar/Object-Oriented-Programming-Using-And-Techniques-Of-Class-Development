@@ -1,0 +1,5 @@
+﻿  GeometricProgram.cpp
+C:\Users\Nikolay\source\repos\OOP-4\OOP-4\DoubleValidator.h(18,2): warning C4091: static : пропускается слева от "DoubleValidator", когда ни одна переменная не объявлена
+C:\Users\Nikolay\source\repos\OOP-4\OOP-4\CollisionManager.h(14,2): warning C4091: static : пропускается слева от "CollisionManager", когда ни одна переменная не объявлена
+C:\Users\Nikolay\source\repos\OOP-4\OOP-4\GeometricProgram.cpp(126,17): warning C4129: R: неизвестная escape-последовательность
+  OOP-4.vcxproj -> C:\Users\Nikolay\source\repos\OOP-4\Debug\OOP-4.exe
